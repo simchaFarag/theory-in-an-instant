@@ -1,0 +1,48 @@
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\bin\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\bin\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user\Downloads\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\bin\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

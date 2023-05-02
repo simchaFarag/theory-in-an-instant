@@ -1,0 +1,39 @@
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.deps.json
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.runtimeconfig.json
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.runtimeconfig.dev.json
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.csproj.AssemblyReference.cache
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.AssemblyInfoInputs.cache
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.AssemblyInfo.cs
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Videos\תכנות\ריאקט\שנה ג\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.genruntimeconfig.cache
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.deps.json
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.runtimeconfig.json
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.runtimeconfig.dev.json
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.AssemblyInfo.cs
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Downloads\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.genruntimeconfig.cache
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.deps.json
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.runtimeconfig.json
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.runtimeconfig.dev.json
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\bin\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.AssemblyInfo.cs
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.dll
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.pdb
+C:\Users\user\Desktop\‏‏תיקיה חדשה\server\controlTeorya\controlTeorya\MODELS\obj\Debug\netcoreapp3.1\MODELS.genruntimeconfig.cache

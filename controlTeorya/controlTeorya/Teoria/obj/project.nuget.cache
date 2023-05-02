@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "02tgcgfmb+u/FqjFy8YXjIn5TLdx6JdGq3oM4YEQmAuLGvQIb0wdcXWpmtXB4+wUFljsxiy7aSwrPe0+eLrMaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Videos\\תכנות\\ריאקט\\שנה ג\\controlTeorya\\Teoria\\Teoria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
