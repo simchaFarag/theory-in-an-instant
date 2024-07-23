@@ -1,4 +1,4 @@
-# Theory in an instant
+# Theory in an Instant
 C# server and ReactJS inetrface with connection to SQL server.
 
 ### What you can do:
